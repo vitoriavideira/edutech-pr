@@ -1,0 +1,24 @@
+
+.cabecalho__link {
+    font-size: 1.1rem;
+
+    display: inline-block;
+
+    margin-right: .7rem;
+    margin-bottom: 1.25rem;
+    margin-left: .7rem;
+}
+
+@media screen and (min-width: 1024) {
+    .cabecalho {flex-direction: row;
+    justify-content: space-between;
+border: none;}
+}
+@media screen and (min-width: 1024px) {
+    .cabecalho {
+        flex-direction: row;
+        justify-content: space-between;
+
+        border: none;
+    }
+}
