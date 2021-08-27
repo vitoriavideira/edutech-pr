@@ -1,0 +1,55 @@
+
+	body { 
+	}
+
+#banner { width: 100%; 
+}
+
+	 h1 { text-align: center
+	 }
+.principal {background: #CCCCCC}
+
+p { 
+text-align:center;
+ }
+ 
+ #missao {
+ 	font-size: 20px
+ }
+
+ em strong {
+color: FF0000;
+
+ }
+ .itens {
+ 	font-style: italic
+
+ }
+ .beneficios { 
+ background: #FFFFFF }
+
+ h2 { text-align: center }
+
+ main { width: 940px;
+margin: 0 auto;
+  }
+
+form label, form p{ 
+display: block;
+font-size: 20px;
+margin: 0px 0;
+ }
+
+form label { 
+  display: block;
+}
+form input, form textarea {
+
+  display:  block;
+}
+
+.input-padrao { 
+display: block;
+margin: 0 0 20px;
+width: 50%;
+ }
